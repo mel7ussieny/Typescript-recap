@@ -13,7 +13,7 @@ highScore = 1;
 highScore = true;
 
 // Fault - String
-highScore = "String"
+// highScore = "String"
 
 
 // **********************************************
@@ -29,8 +29,6 @@ stuff = [1,3,4,5]
 
 stuff = ["Ahmed", "Ali", "Hassan"]
 
-// Fault, Can't be mixed
-stuff = [1,"a"]
 // **********************************************
 // ******************* PART 3 *******************
 // **********************************************
@@ -44,7 +42,7 @@ let SkillLevel: ("Beginner" | "Intermediate" | "Advanced" | "Expert") = "Advance
 SkillLevel = "Intermediate";
 
 // Fault
-SkillLevel = "Student"
+// SkillLevel = "Student"
 
 
 // **********************************************
